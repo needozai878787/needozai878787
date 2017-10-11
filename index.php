@@ -15,7 +15,8 @@ $server_dir = "../";
 
 require $server_dir.'scripts/config.inc.php';
 require $server_dir.'scripts/wampserver.lib.php';
-//Hello i am here.. gerere 
+//Hello i am here.. gere//re 
+//hi its me nadeem he
 
 
 //chemin jusqu'aux fichiers alias
